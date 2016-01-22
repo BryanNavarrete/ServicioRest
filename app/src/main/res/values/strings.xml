@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ServicioRest</string>
+    <string name="title_activity_calificacion">CalificacionActivity</string>
+    <string name="cedula_text">Cédula</string>
+    <string name="periodos_text">Pediodos</string>
+    <string name="btn_Consultar">Consultar Calificación</string>
+    <string name="mensaje">UNIVERSIDAD DE GUAYAQUIL</string>
+</resources>
